@@ -1,1 +1,2 @@
-The first colour of rainbow is red.
+The FIRST colour of rainbow is red.
+The SECOND colour of rainbow is orange.
